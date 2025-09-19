@@ -1,0 +1,164 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "title": "파리, 프랑스",
+      "description": "에펠탑과 루브르 박물관이 있는 낭만의 도시.",
+      "image": "https://plus.unsplash.com/premium_photo-1661919210043-fd847a58522d?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["도시", "문화", "유럽"],
+      "recommended": true
+    },
+    {
+      "id": 2,
+      "title": "도쿄, 일본",
+      "description": "전통과 현대가 공존하는 아시아 대표 도시.",
+      "image": "https://images.unsplash.com/photo-1480796927426-f609979314bd?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["아시아", "도시", "쇼핑"],
+      "recommended": false
+    },
+    {
+      "id": 3,
+      "title": "뉴욕, 미국",
+      "description": "자유의 여신상과 브로드웨이 공연을 즐길 수 있는 도시.",
+      "image": "https://images.unsplash.com/photo-1485871981521-5b1fd3805eee?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["도시", "야경", "미국"],
+      "recommended": true
+    },
+    {
+      "id": 4,
+      "title": "발리, 인도네시아",
+      "description": "에메랄드빛 바다와 이국적인 분위기의 휴양지.",
+      "image": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["휴양지", "해변", "아시아"],
+      "recommended": false
+    },
+    {
+      "id": 5,
+      "title": "런던, 영국",
+      "description": "빅벤과 템즈강이 흐르는 역사 깊은 도시.",
+      "image": "https://images.unsplash.com/photo-1526129318478-62ed807ebdf9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["유럽", "역사", "도시"],
+      "recommended": true
+    },
+    {
+      "id": 6,
+      "title": "시드니, 호주",
+      "description": "오페라 하우스와 아름다운 항구로 유명한 곳.",
+      "image": "https://images.unsplash.com/photo-1528072164453-f4e8ef0d475a?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["자연", "오세아니아", "도시"],
+      "recommended": false
+    },
+    {
+      "id": 7,
+      "title": "바르셀로나, 스페인",
+      "description": "가우디 건축물과 활기찬 거리 문화.",
+      "image": "https://plus.unsplash.com/premium_photo-1661886849409-7c260d8e5aa1?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["문화", "유럽", "예술"],
+      "recommended": true
+    },
+    {
+      "id": 8,
+      "title": "로마, 이탈리아",
+      "description": "콜로세움과 바티칸이 있는 고대 로마의 흔적.",
+      "image": "https://plus.unsplash.com/premium_photo-1661963952208-2db3512ef3de?q=80&w=1544&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["역사", "문화", "유럽"],
+      "recommended": false
+    },
+    {
+      "id": 9,
+      "title": "방콕, 태국",
+      "description": "다양한 길거리 음식과 화려한 사원.",
+      "image": "https://images.unsplash.com/photo-1563492065599-3520f775eeed?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["아시아", "음식", "문화"],
+      "recommended": true
+    },
+    {
+      "id": 10,
+      "title": "하와이, 미국",
+      "description": "휴양과 액티비티가 동시에 가능한 천국의 섬.",
+      "image": "https://images.unsplash.com/photo-1542259009477-d625272157b7?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["휴양지", "미국", "자연"],
+      "recommended": false
+    },
+    {
+      "id": 11,
+      "title": "프라하, 체코",
+      "description": "동화 속 같은 고성들과 낭만적인 야경.",
+      "image": "https://plus.unsplash.com/premium_photo-1661963067279-2f7bf970c49c?q=80&w=1349&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["유럽", "야경", "역사"],
+      "recommended": true
+    },
+    {
+      "id": 12,
+      "title": "베를린, 독일",
+      "description": "과거와 현대가 어우러진 예술의 도시.",
+      "image": "https://images.unsplash.com/photo-1599946347371-68eb71b16afc?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["유럽", "역사", "도시"],
+      "recommended": false
+    },
+    {
+      "id": 13,
+      "title": "이스탄불, 터키",
+      "description": "동서양 문화가 교차하는 이국적인 도시.",
+      "image": "https://images.unsplash.com/photo-1524231757912-21f4fe3a7200?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["문화", "유럽", "아시아"],
+      "recommended": true
+    },
+    {
+      "id": 14,
+      "title": "케이프타운, 남아프리카",
+      "description": "테이블 마운틴과 아름다운 해안선.",
+      "image": "https://images.unsplash.com/photo-1576485290814-1c72aa4bbb8e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["자연", "아프리카", "해변"],
+      "recommended": false
+    },
+    {
+      "id": 15,
+      "title": "암스테르담, 네덜란드",
+      "description": "운하와 자전거의 도시.",
+      "image": "https://plus.unsplash.com/premium_photo-1661887237533-b38811c27add?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["유럽", "도시", "문화"],
+      "recommended": true
+    },
+    {
+      "id": 16,
+      "title": "몰디브",
+      "description": "푸른 바다 위 수상가옥에서의 휴식.",
+      "image": "https://plus.unsplash.com/premium_photo-1666432045848-3fdbb2c74531?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["휴양지", "해변", "자연"],
+      "recommended": false
+    },
+    {
+      "id": 17,
+      "title": "상하이, 중국",
+      "description": "현대적인 스카이라인과 역사적인 거리.",
+      "image": "https://images.unsplash.com/photo-1538428494232-9c0d8a3ab403?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["도시", "아시아", "역사"],
+      "recommended": true
+    },
+    {
+      "id": 18,
+      "title": "로스앤젤레스, 미국",
+      "description": "할리우드와 해변이 공존하는 도시.",
+      "image": "https://images.unsplash.com/photo-1619678562883-7f77b7c68d3c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["도시", "미국", "문화"],
+      "recommended": false
+    },
+    {
+      "id": 19,
+      "title": "산토리니, 그리스",
+      "description": "푸른 바다와 하얀 건물이 조화를 이루는 섬.",
+      "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?q=80&w=1438&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["유럽", "휴양지", "야경"],
+      "recommended": true
+    },
+    {
+      "id": 20,
+      "title": "리우데자네이루, 브라질",
+      "description": "삼바와 축제로 가득한 활기찬 도시.",
+      "image": "https://images.unsplash.com/photo-1483729558449-99ef09a8c325?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "tags": ["남미", "축제", "문화"],
+      "recommended": false
+    }
+  ]
+}
