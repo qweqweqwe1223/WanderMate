@@ -1,0 +1,124 @@
+:root {
+  --color-base: rgba(0, 0, 0, 0.8);
+  --muted: #6b7280;
+  --brand1: #E62727;
+  --brand2: #DCDCDC;
+  --brand3: #1E93AB;
+  --highlight: #1e27ab;
+  --bg-base: #F3F2EC;
+  --radius: 15px;
+  --shadow: 0 6px 20px rgba(0,0,0,0.8);
+  --font-h2: 'GMarketSans';
+  --white: #fff;
+}
+
+.container {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+/* header */
+header .logo {
+  font-family: var(--font-h2);
+  font-size: 26px;
+  text-align: center;
+  padding: 15px 0;
+}
+
+header .logo img {
+  max-width: 80px;
+  margin-right: 40px;
+  vertical-align: middle;
+}
+
+header .logo span {
+  color: var(--brand1);
+}
+
+header .gnb {
+  background: var(--brand1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  padding: 15px 0;
+}
+
+header .gnb a {
+  font-size: 18px;
+  font-weight: 500;
+  color: var(--white);
+}
+
+/* hero-slide */
+.hero-slide div {
+  height: 36vh;
+  overflow: hidden;
+  background: red;
+}
+
+.hero-slide div img {
+  object-fit: cover;
+  object-position: center;
+}
+
+
+/*  */
+
+.intro-text span {
+  display: block;
+  margin-top: 30px;
+  font-size: 20px;
+  color: var(--brand3);
+}
+
+.text-area {
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #464646;
+}
+
+.recommendArea {
+  margin-top: 30px;
+}
+
+.recommendArea h2 {
+  font-size: 20px;
+  color: var(--brand3);
+  margin-bottom: 20px;
+}
+
+.recommendArea .card {
+  height: 300px;
+}
+
+.recommendArea .card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.recommendArea .card h3 {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--brand1);
+  display: inline-block;
+}
+
+.info {
+  margin-left: 20px;
+  display: inline-block;
+}
+
+.recommendArea .card .tag {
+  font-size: 15px;
+  color: #999;
+  margin-top: 5px;
+}
+
+.text {
+  margin-top: 10px;
+}

@@ -1,0 +1,57 @@
+small {
+  display: inline-block;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.travel-card {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.travel-card figure {
+  width: 100%;
+}
+
+.travel-card figure img {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.meal-text h3 {
+  font-size: 18px;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 10px;
+  color: #E62727;
+}
+
+.recom span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #E62727;
+  padding: 5px 10px;
+  color: #fff;
+  border-radius: 0 5px 5px 5px;
+  font-weight: 500;
+}
+
+.meal-text .tag {
+  font-size: 15px;
+  color: #999;
+  margin-top: 5px;
+}
+
+.btn-area {
+  text-align: center;
+}
+
+.btn-area button {
+  padding: 5px 10px;
+  font-size: 14px;
+  border: 1px solid #000;
+  background: transparent;
+  border-radius: 5px;
+}

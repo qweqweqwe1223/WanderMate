@@ -1,0 +1,27 @@
+h2 {
+  color: var(--brand3);
+  margin: 30px 0;
+  text-align: center;
+}
+
+.react-tabs__tab-list {
+  display: flex;
+  gap: 10px;
+  font-size: 20px;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #ddd;
+  padding: 0 10px;
+  padding-bottom: 10px;
+  font-weight: 600;
+}
+
+.react-tabs__tab-panel h3 {
+  margin: 10px 0;
+}
+
+.react-tabs__tab-panel li {
+  margin-bottom: 10px;
+  list-style: circle;
+  margin-left: 20px;
+}
