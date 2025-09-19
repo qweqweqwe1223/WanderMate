@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WanderMate/static/css/main.190bcdca.css",
-    "main.js": "/WanderMate/static/js/main.4fa5bc45.js",
+    "main.js": "/WanderMate/static/js/main.d7eaad93.js",
     "static/js/453.d0969346.chunk.js": "/WanderMate/static/js/453.d0969346.chunk.js",
     "static/media/revicons.eot": "/WanderMate/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/WanderMate/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -9,11 +9,11 @@
     "static/media/revicons.woff": "/WanderMate/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/WanderMate/index.html",
     "main.190bcdca.css.map": "/WanderMate/static/css/main.190bcdca.css.map",
-    "main.4fa5bc45.js.map": "/WanderMate/static/js/main.4fa5bc45.js.map",
+    "main.d7eaad93.js.map": "/WanderMate/static/js/main.d7eaad93.js.map",
     "453.d0969346.chunk.js.map": "/WanderMate/static/js/453.d0969346.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.190bcdca.css",
-    "static/js/main.4fa5bc45.js"
+    "static/js/main.d7eaad93.js"
   ]
 }
