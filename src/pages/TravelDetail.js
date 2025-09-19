@@ -6,7 +6,7 @@ const TravelDetail = () => {
   const [item, setItem] = useState(null);
 
     useEffect(() => {
-      fetch('/db.json')
+      fetch(`${process.env.PUBLIC_URL}/db.json`)
         .then(r => r.json()) // json 형식으로 변환
         .then((data) => {
           const found = data.destinations.find((m) => m.id === parseInt(id));

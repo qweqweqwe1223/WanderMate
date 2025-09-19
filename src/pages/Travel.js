@@ -9,7 +9,7 @@ const Travel = () => {
   const [showAll, setShowAll] = useState(false); // 더보기 버튼 상태
 
   useEffect(() => {
-    fetch('/db.json')
+    fetch(`${process.env.PUBLIC_URL}/db.json`)
       .then(r => r.json()) // json 형식으로 변환
       .then(data => setAll(data.destinations || [])) // destinations 배열만 저장
       .catch(console.error);
